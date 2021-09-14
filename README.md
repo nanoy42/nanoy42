@@ -22,4 +22,5 @@ My latest articles :
 ## Projects
 
 <!-- PROJECTS-LIST:START -->
+- [DinoMail](https://nanoy.fr/project/dinomail/)
 <!-- PROJECTS-LIST:END -->
