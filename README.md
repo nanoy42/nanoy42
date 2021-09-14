@@ -11,6 +11,8 @@ Hi ! Welcome to my Github profile !
 My latest articles : 
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a plugin system with Django](https://nanoy.fr/post/plugin_django/)
+- [Dkim and Mailman3](https://nanoy.fr/post/dkim-and-mailman3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages skills
