@@ -1,4 +1,4 @@
-name: Latest projects workflow
+name: Latest publications workflow
 on:
   workflow_dispatch:
   schedule:
@@ -7,14 +7,14 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest projects
+    name: Update this repo's README with latest publications
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Your RSS feed url
-          feed_list: "https://nanoy.fr/project/index.xml"
+          feed_list: "https://nanoy.fr/publication/index.xml"
           # Maximum number of posts you want
           max_post_count: 5
-          comment_tag_name: PROJECTS-LIST
+          comment_tag_name: PUBLICATIONS-LIST
