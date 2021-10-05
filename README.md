@@ -34,6 +34,7 @@ My latest articles :
 ## 📜 Publications
 
 <!-- PUBLICATIONS-LIST:START -->
+- [Master Thesis - Quantum Cryptography](https://nanoy.fr/publication/master_thesis/)
 <!-- PUBLICATIONS-LIST:END -->
 
 ## 💼 Others
