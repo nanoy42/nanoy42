@@ -20,11 +20,11 @@ PGP key : `438C 07EC 20B6 45D0 5BBE  4C83 DC24 C578 7C94 3389`
 My latest articles : 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tired of Not Getting Arxiv Updates](https://nanoy.fr/post/tired-of-not-getting-arxiv-updates/)
 - [Drawing a Christmas Tree From Single Photons](https://nanoy.fr/post/drawing-a-christmas-tree-from-single-photons/)
 - [Transition to a near-perfect GPG key pair](https://nanoy.fr/post/gpg-transition/)
 - [Visual Cryptography](https://nanoy.fr/post/visual-cryptography/)
 - [Keepass to Vaultwarden](https://nanoy.fr/post/keepass-to-vaultwarden/)
-- [Building a plugin system with Django](https://nanoy.fr/post/plugin_django/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚧 Projects
