@@ -36,6 +36,7 @@ My latest articles :
 ## 📜 Publications
 
 <!-- PUBLICATIONS-LIST:START -->
+- [Communications sécurisées avec des variables quantiques continues](https://nanoy.fr/publication/photoniques/)
 - [QOSST: A Highly-Modular Open Source Platform for Experimental Continuous-Variable Quantum Key Distribution](https://nanoy.fr/publication/qosst/)
 - [Integrated InP-based transmitter for Continuous-Variable Quantum Key Distribution](https://nanoy.fr/publication/chip-cvqkd-icfo/)
 - [Experimental Demonstration of Continuous-Variable Quantum Key Distribution with a Silicon Photonics Integrated Receiver](https://nanoy.fr/publication/chip-cvqkd/)
