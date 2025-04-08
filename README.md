@@ -36,11 +36,11 @@ My latest articles :
 ## 📜 Publications
 
 <!-- PUBLICATIONS-LIST:START -->
+- [Quantum Key Distribution with Efficient Post-Quantum Cryptography-Secured Trusted Node on a Quantum Network](https://nanoy.fr/publication/qci/)
 - [Communications sécurisées avec des variables quantiques continues](https://nanoy.fr/publication/photoniques/)
-- [QOSST: A Highly-Modular Open Source Platform for Experimental Continuous-Variable Quantum Key Distribution](https://nanoy.fr/publication/qosst/)
 - [Integrated InP-based transmitter for Continuous-Variable Quantum Key Distribution](https://nanoy.fr/publication/chip-cvqkd-icfo/)
+- [QOSST: A Highly-Modular Open Source Platform for Experimental Continuous-Variable Quantum Key Distribution](https://nanoy.fr/publication/qosst/)
 - [Experimental Demonstration of Continuous-Variable Quantum Key Distribution with a Silicon Photonics Integrated Receiver](https://nanoy.fr/publication/chip-cvqkd/)
-- [Energetic Analysis of Emerging Quantum Communication Protocols](https://nanoy.fr/publication/energetics/)
 <!-- PUBLICATIONS-LIST:END -->
 
 ## 💼 Others
