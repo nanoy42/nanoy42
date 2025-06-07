@@ -20,11 +20,11 @@ PGP key : `438C 07EC 20B6 45D0 5BBE  4C83 DC24 C578 7C94 3389`
 My latest articles : 
 
 <!-- BLOG-POST-LIST:START -->
+- [ntfy: A simple notification system](https://nanoy.fr/post/ntfy/)
 - [Secure boot on Arch Linux](https://nanoy.fr/post/secure-boot-arch-linux/)
 - [Tired of Not Getting arXiv Updates ?](https://nanoy.fr/post/tired-of-not-getting-arxiv-updates/)
 - [Drawing a Christmas Tree From Single Photons](https://nanoy.fr/post/drawing-a-christmas-tree-from-single-photons/)
 - [Keepass to Vaultwarden](https://nanoy.fr/post/keepass-to-vaultwarden/)
-- [Building a plugin system with Django](https://nanoy.fr/post/django-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚧 Projects
