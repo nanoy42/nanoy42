@@ -36,11 +36,11 @@ My latest articles :
 ## 📜 Publications
 
 <!-- PUBLICATIONS-LIST:START -->
+- [High-Performance Heterodyne Receiver for Quantum Information Processing in a Laser Written Integrated Photonic Platform](https://nanoy.fr/publication/chip-flm/)
 - [Quantum Key Distribution with Efficient Post-Quantum Cryptography-Secured Trusted Node on a Quantum Network](https://nanoy.fr/publication/qci/)
 - [Communications sécurisées avec des variables quantiques continues](https://nanoy.fr/publication/photoniques/)
 - [Integrated InP-based transmitter for Continuous-Variable Quantum Key Distribution](https://nanoy.fr/publication/chip-cvqkd-icfo/)
 - [QOSST: A Highly-Modular Open Source Platform for Experimental Continuous-Variable Quantum Key Distribution](https://nanoy.fr/publication/qosst/)
-- [Experimental Demonstration of Continuous-Variable Quantum Key Distribution with a Silicon Photonics Integrated Receiver](https://nanoy.fr/publication/chip-cvqkd/)
 <!-- PUBLICATIONS-LIST:END -->
 
 ## 💼 Others
